@@ -1,0 +1,4 @@
+in order to run this file follow the below instrction
+
+1. Get the API key from google ai studio - https://ai.google.dev/aistudio
+2. crete a .env file which consists GOOGLE_API_KEY = [YOUR API KEY] 
